@@ -21,6 +21,6 @@ python main.py
 - See the state name marked on the map if guessed correctly.
 - Continue guessing until all states are guessed or type "Exit" to finish.
 
-3. After exiting the game, two CSV files will be created:
+4. After exiting the game, two CSV files will be created:
 - Guessed_states.csv: Contains the names of the states you guessed correctly.
 - Missed_states.csv: Contains the names of the states you did not guess.
